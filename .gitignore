@@ -1,0 +1,9 @@
+*.sln
+*/Debug/
+*/Release/
+.vs/
+Debug/
+packages/
+*.vcxproj
+*.vcxproj.*
+packages.config
