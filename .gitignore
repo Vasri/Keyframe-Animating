@@ -6,4 +6,6 @@ Debug/
 packages/
 *.vcxproj
 *.vcxproj.*
+*.filters
+*.users
 packages.config
